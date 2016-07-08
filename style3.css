@@ -28,13 +28,16 @@ a:hover{
 	list-style-type: none;
 }
 
-.main {
-margin-top: 100px;
-
+img{
+	width: 40%;
+	height: 40%;
+	float: left;
+	padding-right: 50px;
+	padding-top: 50px;
+	
 }
 
-.main{
-	padding: 25px;
-	column-width: 300px;
-	float: left;
+.imgf{
+	padding-left: 50px;
+
 }

@@ -7,7 +7,6 @@
 	width: 100%;
 }
 
-
 a{
 	text-decoration: none;
 	color: white;
@@ -30,11 +29,28 @@ a:hover{
 
 .main {
 margin-top: 100px;
+padding: 20px;
+padding-left: 100px;
 
 }
 
-.main{
-	padding: 25px;
-	column-width: 300px;
+.para {
+	width: 400px;
+	margin-right: 40px;
 	float: left;
+}
+
+.img1 {
+	width: 2%;
+	height: 3%;
+	margin-top: 100px;
+	left: 20px;
+	position: fixed;
+}
+.img2 {
+	width: 2%;
+	height: 3%;
+	margin-top: 140px;
+	left: 20px;
+	position: fixed;
 }
